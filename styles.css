@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color:blueviolet
+}
+h2{
+    text-align: center;
+    color:blueviolet
+}
+h3{
+    color:aqua
+}
+nav{
+    font-family:Arial, Helvetica, sans-serif
+}
+nav{
+    color:rosybrown
+}
+img{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
